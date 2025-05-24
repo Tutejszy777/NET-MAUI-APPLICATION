@@ -6,8 +6,8 @@
 
     <Color x:Key="CustomLightBlue">#E6EEFD</Color>
     <Color x:Key="CustomDarkBlue">#004A78</Color>
-    <Color x:Key="CustomDarkGrey">#004A78</Color>
-    <Color x:Key="CustomBlue">#004A78</Color>
+    <Color x:Key="CustomDarkGrey">#2D2F33</Color>
+    <Color x:Key="CustomBlue">#C2E7FF</Color>
     <Color x:Key="CustomLightGreen">#B8FACB</Color>
     <Color x:Key="CustomDarkGreen">#105323</Color>
 
